@@ -1,0 +1,16 @@
+[
+    {
+      "name": "Dishwasher Pros SF",
+      "rating": 4.9,
+      "reviews": 250,
+      "price": "$110",
+      "booking": "https://dishwasherpros.com/book"
+    },
+    {
+      "name": "Bay Appliance Repair",
+      "rating": 4.6,
+      "reviews": 180,
+      "price": "$95",
+      "booking": "https://bayrepair.com/book"
+    }
+  ]

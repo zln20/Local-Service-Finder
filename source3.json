@@ -1,0 +1,16 @@
+[
+    {
+      "name": "SmartFix Techs",
+      "rating": 4.7,
+      "reviews": 190,
+      "price": "$90",
+      "booking": "https://smartfixtechs.com/schedule"
+    },
+    {
+      "name": "Appliance Doctors",
+      "rating": 4.5,
+      "reviews": 275,
+      "price": "$100",
+      "booking": "https://appliancedocs.com/book"
+    }
+  ]

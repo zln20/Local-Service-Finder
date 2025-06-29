@@ -1,0 +1,16 @@
+[
+    {
+      "name": "FastFix Appliances",
+      "rating": 4.8,
+      "reviews": 210,
+      "price": "$120",
+      "booking": "https://fastfixsf.com/appointments"
+    },
+    {
+      "name": "Mr. Appliance of SF",
+      "rating": 4.3,
+      "reviews": 320,
+      "price": "$105",
+      "booking": "https://mrappliance.com/sf"
+    }
+  ]
