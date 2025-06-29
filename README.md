@@ -1,0 +1,1 @@
+Built an AI Q&A app using Streamlit and Together AI’s LLaMA-3 model to recommend services based on a custom “Neptune Score” combining rating, reviews, and price. Parses JSON data, ranks top listings, and generates helpful summaries in real time.
